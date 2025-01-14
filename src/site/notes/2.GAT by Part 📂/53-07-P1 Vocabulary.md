@@ -5,7 +5,7 @@
 # Part One: Vocabulary (Items 1-12)  
 
 ## Items 1-4: Odd One Out  
-Three of the words in each group relate to one another in their meaning. Choose the word that does NOT belong.  
+**Three of the words in each group relate to one another in their meaning. Choose the word that does NOT belong.  **
 
 #### 1.  
 1. schedule  

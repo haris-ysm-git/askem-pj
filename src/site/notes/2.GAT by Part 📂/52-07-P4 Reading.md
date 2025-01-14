@@ -156,3 +156,5 @@
 2. informative
 3. imaginative
 4. declarative
+
+---

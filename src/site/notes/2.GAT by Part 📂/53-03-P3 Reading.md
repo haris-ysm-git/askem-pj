@@ -45,10 +45,13 @@ An account manager has ultimate responsibility for a number of accounts, manages
 ---
 
 ### Passage 1  
-> <1> While some researchers search for the roots of obesity in our genes, others investigate infections. Scientists have known for two decades that, surprisingly, certain viruses can cause birds or mammals to become fat. Now scientists think they have tracked down a bug that can cause obesity in people.  
-> <2> The alleged **culprit** is human adenovirus-36, or AD-36. A study published in 2002 showed that AD-36 injected into monkeys causes dramatic weight gain. In some animals, the injected virus caused body fat to triple. It’s unethical to inoculate people with viruses, of course. But in an analysis of 1,000 people, the scientists found that **those** with AD-36 antibodies—a sign that they have been infected—are significantly more likely to be overweight.  
-> <3> How could a virus make you fat? When fat cells are exposed to AD-36, they begin to multiply. “We are not saying all obesity is caused by a virus. Genes, metabolism, and habits all play a role,” the scientists acknowledge. “But at least one other possibility appears to be infection.”  
-> <4> As yet, no one knows how widespread AD-36 may be, or how big a role it might play in the current obesity epidemic. If the scientists’ suspicions prove correct, the next step would be to develop a vaccine.  
+> *<1>* While some researchers search for the roots of obesity in our genes, others investigate infections. Scientists have known for two decades that, surprisingly, certain viruses can cause birds or mammals to become fat. Now scientists think they have tracked down a bug that can cause obesity in people.
+> 
+> *<2>* The alleged **culprit** is human adenovirus-36, or AD-36. A study published in 2002 showed that AD-36 injected into monkeys causes dramatic weight gain. In some animals, the injected virus caused body fat to triple. It’s unethical to inoculate people with viruses, of course. But in an analysis of 1,000 people, the scientists found that **those** with AD-36 antibodies—a sign that they have been infected—are significantly more likely to be overweight.
+> 
+> *<3>* How could a virus make you fat? When fat cells are exposed to AD-36, they begin to multiply. “We are not saying all obesity is caused by a virus. Genes, metabolism, and habits all play a role,” the scientists acknowledge. “But at least one other possibility appears to be infection.”
+> 
+> *<4>* As yet, no one knows how widespread AD-36 may be, or how big a role it might play in the current obesity epidemic. If the scientists’ suspicions prove correct, the next step would be to develop a vaccine.  
 
 ---
 

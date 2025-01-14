@@ -82,7 +82,7 @@ Choose the best answer to complete the sentence.
 ---
 
 ### Items 56-60
-Select **five** of six sentences (S1-S6) and put them in an appropriate sequence to form a meaningful paragraph. Please note that **one** of these choices will **not** be used.
+Select **FIVE** of six sentences (S1-S6) and put them in an appropriate sequence to form a meaningful paragraph. Please note that **ONE** of these choices will **NOT** be used.
 
 > [S1] In the U.S., however, men and women exchange gifts with each other.  
 > [S2] People in the United States and Japan celebrate Valentine's Day differently.  
@@ -93,14 +93,14 @@ Select **five** of six sentences (S1-S6) and put them in an appropriate sequence
 
 ---
 
-#### 56. Which sentence comes first?
+#### 56. Which sentence comes **first**?
 
-#### 57. Which sentence comes second?
+#### 57. Which sentence comes **second**?
 
-#### 58. Which sentence comes third?
+#### 58. Which sentence comes **third**?
 
-#### 59. Which sentence comes fourth?
+#### 59. Which sentence comes **fourth**?
 
-#### 60. Which sentence comes last?
+#### 60. Which sentence comes **last**?
 
 ---

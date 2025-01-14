@@ -12,13 +12,13 @@ Welcome to **Askem Project**, an educational platform designed to help students 
 ---
 ## **Educational Purpose** 🎯
 
-This website aims to support learning by offering content inspired by English exams commonly found in Thailand. The materials on this site are **not exact copies** of official exams but are **representative of similar styles and topics**, sourced from publicly shared questions within student and tutor communities. Our primary goal is to enhance students' understanding, vocabulary, and exam strategies through interactive and analytical tools.
+This website aims to support learning by offering content inspired by English exams commonly found in Thailand. The materials on this site are **not exact copies** of official exams but are **representative of similar styles and topics**, sourced from publicly shared questions within student communities. Our primary goal is to enhance students' understanding, vocabulary, and exam strategies through provide content.
 
 ---
 ## **Why This Platform Matters** 🗝️
 
 - **Access to Text-Based Content**: Easily copy, analyze, and use questions to improve learning outcomes with the help of AI tools.
-- **AI-Powered Learning Assistance**: Get detailed explanations, personalized study suggestions, and performance insights.
+- **Materials for AI-Powered Learning Assistance**: Get detailed explanations, personalized study suggestions, and performance insights.
 - **Vocabulary and Question Analysis**: Understand common question patterns and essential vocabulary to focus your study effectively.
 
 ---

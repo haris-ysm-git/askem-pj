@@ -85,7 +85,7 @@ Choose the best answer to complete the sentence.
 ---
 
 ### Items 56-60: Sentence Ordering  
-Select **five** of six sentences (S1-S6) and put them in an appropriate sequence to form a meaningful paragraph. Please note that **one** of these choices will **not** be used.
+Select **FIVE** of six sentences (S1-S6) and put them in an appropriate sequence to form a meaningful paragraph. Please note that **ONE** of these choices will **NOT** be used.
 
 > [S1] This inevitable disappointment of erotic lovers means that they rarely remain in a relationship for long.
 > [S2] However, because erotic lovers often have an idealized image of beauty that is unattainable in reality, they are especially sensitive to the physical imperfections of their lover.
